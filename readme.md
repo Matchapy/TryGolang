@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Go langの勉強する
 Go langを勉強するため、HTTPサーバを作る
 
@@ -80,3 +81,7 @@ import (
 ## 参考
 [Modulesの使い方](https://qiita.com/uchiko/items/64fb3020dd64cf211d4e)
 [Webアプリ初心者がGo言語でサーバサイド](https://qiita.com/wsuzume/items/75d5c0cd2dd5a1963b9e)
+=======
+# Go langを勉強する
+Go langを勉強するため、HTTPサーバを作る
+>>>>>>> 8e2090ca1dee01a7fb583b5da7cf461a4664b019
