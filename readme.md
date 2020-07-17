@@ -1,5 +1,5 @@
-# Go langの勉強する
-Go langを勉強するため、HTTPサーバを作る
+# Golangを勉強する
+Go angを勉強するため、HTTPサーバを作る
 
 ## フレームワークの種類
 * Gin
